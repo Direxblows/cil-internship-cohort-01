@@ -1,0 +1,13 @@
+Application layer is used by network applications that make use of the internet 
+An example is google chrome, microsoft outlook, instagram and so on.
+Web browser is a network application ruuning in a computer, it doesnt reside in the application layer but it uses application layer protocols 
+There are a lot of application layer protocols such as 
+
+FTP - which helps with File transfer
+HTTP & HTTP/S - which helps with werb surfing 
+SMTP - which helps with Emails 
+TELNET - which helps with virtual terminals 
+
+other protocols are NFS, IRS, DHCP and so on.
+
+In conclusion, Application layer provide services for network application with the help of these protocols
